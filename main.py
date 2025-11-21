@@ -49,5 +49,6 @@ def main():
 
     is_big_number()
 
-main()
+if __name__ == "__main__":
+    main()
 
